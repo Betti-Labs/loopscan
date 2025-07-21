@@ -1,0 +1,171 @@
+{
+  "analysis_type": "real_cmb_echo_detection",
+  "data_file": "data\\COM_CMB_IQU-commander_2048_R3.00_hm1.fits",
+  "data_points": 150996960,
+  "matches_found": 2635,
+  "strong_matches": 333,
+  "max_correlation": 0.28609101431440404,
+  "mean_correlation": -0.00283937659530063,
+  "top_matches": [
+    {
+      "location1": 67676886,
+      "location2": 143175366,
+      "correlation": -0.28609101431440404,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 8980663,
+      "location2": 122228383,
+      "correlation": 0.2856951539778989,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 8427702,
+      "location2": 121675422,
+      "correlation": -0.28122454971435706,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 11654008,
+      "location2": 87152488,
+      "correlation": 0.28121302974347917,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 95953766,
+      "location2": 133703006,
+      "correlation": 0.28119274496785335,
+      "separation_pixels": 37749240,
+      "separation_degrees": 90.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 95139922,
+      "location2": 19641442,
+      "correlation": 0.28103025023934247,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 89981606,
+      "location2": 52232366,
+      "correlation": -0.2779805992088987,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 50685088,
+      "location2": 88434328,
+      "correlation": 0.2776597620812545,
+      "separation_pixels": 37749240,
+      "separation_degrees": 90.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 79376642,
+      "location2": 3878162,
+      "correlation": -0.2764630744756796,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 24989609,
+      "location2": 62738849,
+      "correlation": 0.2757729993061957,
+      "separation_pixels": 37749240,
+      "separation_degrees": 90.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 132293758,
+      "location2": 56795278,
+      "correlation": -0.27576222871193795,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 82294786,
+      "location2": 120044026,
+      "correlation": -0.27548550597752214,
+      "separation_pixels": 37749240,
+      "separation_degrees": 90.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 53783667,
+      "location2": 91532907,
+      "correlation": -0.27278212824300374,
+      "separation_pixels": 37749240,
+      "separation_degrees": 90.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 78525137,
+      "location2": 40775897,
+      "correlation": -0.2714579492074339,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 71066206,
+      "location2": 33316966,
+      "correlation": -0.2704565892139837,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 51746147,
+      "location2": 127244627,
+      "correlation": -0.26721452223180603,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 147053163,
+      "location2": 109303923,
+      "correlation": 0.26710796373620066,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 18158680,
+      "location2": 131406400,
+      "correlation": -0.26629609093977336,
+      "separation_pixels": 113247720,
+      "separation_degrees": 270.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 8375589,
+      "location2": 83874069,
+      "correlation": 0.2659796063355761,
+      "separation_pixels": 75498480,
+      "separation_degrees": 180.0,
+      "patch_size": 2000
+    },
+    {
+      "location1": 96069919,
+      "location2": 133819159,
+      "correlation": 0.26560629829458093,
+      "separation_pixels": 37749240,
+      "separation_degrees": 90.0,
+      "patch_size": 2000
+    }
+  ]
+}
